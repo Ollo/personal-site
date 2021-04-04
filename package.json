@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Ollo/sassy-static-sites#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy": "^0.12.1",
     "sass": "^1.32.6"
   }
 }
